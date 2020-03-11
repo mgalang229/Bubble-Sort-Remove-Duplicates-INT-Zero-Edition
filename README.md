@@ -1,3 +1,3 @@
-# Bubble-Sort-Remove-Duplicates-ZERO-LOOP-VERSION
+# Bubble-Sort-Remove-Duplicates-INT-Zero-Edition
 Sample Output  
 ![](image.png)
