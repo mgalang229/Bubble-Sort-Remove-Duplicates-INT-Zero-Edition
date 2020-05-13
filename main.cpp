@@ -13,7 +13,7 @@ int main(){
     cin >> pogi[i];
   }
 
-  for(int i = 0; i < n-1; i++){
+  for(int i = 0; i < n; i++){
     for(int j = 0; j < n-1; j++){
       if(pogi[j] > pogi[j+1]){
         temp = pogi[j];
